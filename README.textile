@@ -17,7 +17,7 @@ Hey presto! Steel is your theme.
 
 h2. Installation From Local Sources
 
-# Either clone the Github repo to a local directory or use the Download link on Github to get the source files onot your local machine.
+# Either clone the Github repo to a local directory or use the Download link on Github to get the source files onto your local machine.
 # Upload these to the @textpattern/theme@ directory via FTP or other mechanism.
 # Navigate to @Admin > Prefs > Advanced Prefs@.
 # Choose 'Steel' as your admin theme.
