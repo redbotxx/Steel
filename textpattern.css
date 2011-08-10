@@ -18,7 +18,7 @@ input::-moz-focus-inner { /*Remove button padding in FF*/
 
 body {
     background-color: #f4f4f4;
-    color: #666;
+    color: #333;
     margin: 0 0 20px;
 }
 
@@ -40,7 +40,7 @@ h1, h2, h3, p, ul, ol {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #999;
+    color: #666;
     font-size: 18px;
     line-height: 1;
     margin: 0 0 12px;
@@ -78,6 +78,7 @@ li {
 a {
     color: #59939f;
     text-decoration: none;
+    font-weight: bold;
 }
 
 a:hover, a:focus {
@@ -143,7 +144,7 @@ textarea, select, input[type="text"], input[type="password"] {
     border-color: #a3a3a3 #ccc #ccc;
     border-style: solid;
     border-width: 1px;
-    color: #666;
+    color: #333;
     padding: 4px;
 }
 
@@ -153,6 +154,7 @@ input[type="text"], input[type="password"] {
 
 select {
     padding: 2px;
+    background-color: #fff;
 }
 
 textarea {

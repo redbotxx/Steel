@@ -1,0 +1,28 @@
+h1. Steel
+
+Steel is a CSS based admin-side theme for "Textpattern CMS":http://textpattern.com originally produced by redbot from the Din theme.
+
+h2. Installation From Github
+
+You can install this theme into any existing Txp installation very easily if you have access to git on your site's	server (for example, over SSH.)
+
+# Navigate to your site's @textpattern/theme@ directory.
+# Type the following @git clone git://github.com/netcarver/steel.git@ to clone the theme.
+# Navigate to @Admin > Prefs > Advanced Prefs@.
+# Choose 'Steel' as your admin theme.
+# Save the preferences.
+# Navigate to any other admin page.
+
+Hey presto! Steel is your theme.
+
+h2. Installation From Local Sources
+
+# Either clone the Github repo to a local directory or use the "Download link":https://github.com/netcarver/steel/zipball/master on Github to get the source files onto your local machine.
+# Upload these to the @textpattern/theme@ directory via FTP or other mechanism.
+# Navigate to @Admin > Prefs > Advanced Prefs@.
+# Choose 'Steel' as your admin theme.
+# Save the preferences.
+# Navigate to any other admin page.
+
+Hey presto! Steel is your theme.
+
